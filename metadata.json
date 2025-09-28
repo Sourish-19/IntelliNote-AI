@@ -1,0 +1,5 @@
+{
+  "name": "IntelliNote AI",
+  "description": "An intelligent web application that uses the Gemini API to transform uploaded text, image, or audio files into concise notes, comprehension questions, and interactive flashcards. Features a modern UI with a theme toggle and chat history.",
+  "requestFramePermissions": []
+}
