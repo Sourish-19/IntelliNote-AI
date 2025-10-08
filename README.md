@@ -70,4 +70,4 @@ _IntelliNote-AI_ is an AI-powered tool built using TypeScript and HTML, leveragi
 - [OpenAI](https://openai.com/)
 - [Node.js](https://nodejs.org/)
 
-For questions, feedback, or support, please open an [issue](https://github.com/Sourish-19/IntelliNote-AI/issues) or contact [@Navya1801]([https://github.com/Sourish-19](https://github.com/Navya1801)).
+For questions, feedback, or support, please open an [issue](https://github.com/Sourish-19/IntelliNote-AI/issues) or contact [@Navya1801]((https://github.com/Navya1801)).
